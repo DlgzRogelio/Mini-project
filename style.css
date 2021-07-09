@@ -23,7 +23,7 @@ header{
   height: 60px;
   width: 100%;
   line-height:60px;
-  background-color: rgba(161, 170, 33, 0.5);
+  background-color: rgba(15, 15, 11, 0.5);
   z-index: 2;
   border-bottom: orangered 20px solid;
 }
@@ -44,15 +44,12 @@ font-family: inherit;
 font-weight: bolder;
 background-color: indianred;
 border-top: blue 5px dotted;
-font-size: 25px;
+font-size: 35px;
 text-align: left;
 }
 
 
 img {
-    
-  position: relative;
-  left: 200px;
   z-index: 1;
   border-top: 5px blue solid;
   border-bottom: 5px red solid;
@@ -60,6 +57,11 @@ img {
   border-right: 5px yellow dashed;
   }
   
+  #para1{
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: 25px;
+  }
 
 
   
